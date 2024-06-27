@@ -11,6 +11,11 @@ def main():
     # calculate_quotient_and_remainder()
     # calculate_miles_per_gallon()
     # align_text()
+    solutions.calculate profit()
+    solutions.calculate_quotient_and_remainder()
+    solutions.calculate_miles_per_gallon()
+    solutions.align_text()
 
 
-main()
+if_name_== "_main_":
+    main()
